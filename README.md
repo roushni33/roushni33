@@ -33,7 +33,7 @@ Here are some of the tools and technologies I work with:
 ## 🚀 My Projects
 Here are some highlights of my work:
 
-### 🛠️ **[Job Portal](https://github.com/roushni33/Job-Portal)**
+### 🛠️ **[Hire Hub](https://github.com/roushni33/Hire-hub)**
 - **Description**: A full-stack web application that connects job seekers with employers. Users can create profiles, search for jobs, and apply directly through the portal, while employers can post job listings and manage applications.
 - **Tech Stack**: React, Node.js, Express.js, MongoDB, Redux, Tailwind Css, JWT Authentication
 
