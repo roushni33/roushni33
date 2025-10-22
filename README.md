@@ -37,7 +37,7 @@ Here are some highlights of my work:
 - **Description**: A full-stack web application that connects job seekers with employers. Users can create profiles, search for jobs, and apply directly through the portal, while employers can post job listings and manage applications.
 - **Tech Stack**: React, Node.js, Express.js, MongoDB, Redux, Tailwind Css, JWT Authentication
 
-### 🌐 **[Uber Clone](https://github.com/roushni33/Uber-Clone-App)**
+### 🌐 **[RideX](https://github.com/roushni33/Uber-Clone-App)**
 - **Description**: A ride-sharing application that allows users to book rides, track drivers in real-time, and manage payments seamlessly. Drivers can register, accept rides, and navigate routes efficiently through the app.
 - **Tech Stack**: React, Node.js, Express.js, MongoDB, Google Maps API, Stripe
 
