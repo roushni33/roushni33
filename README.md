@@ -13,7 +13,7 @@
 ## ◈ whoami
 
 ```
-╭──────────────────────────── roushni@nitp ───────────────────────────╮
+╭──────────────────────────── roushni@patna ───────────────────────────╮
 │                                                                      │
 │   Name        │  Roushni Kumari                                      │
 │   Role        │  Full Stack Developer                                │
@@ -35,7 +35,7 @@
 
 Full Stack Developer passionate about building user-centric web applications with modern technologies. I specialize in developing end-to-end solutions using the MERN Stack (MongoDB, Express.js, React, Node.js).
 
-My focus areas are responsive web design, RESTful API development, state management, and database optimization. In real-world projects, I work with MongoDB, JWT authentication, Redux, Tailwind CSS, and third-party APIs like Google Maps and Stripe.
+My focus areas are responsive web design, RESTful API development, state management, and database optimization. In real-world projects, I work with MongoDB, JWT authentication, Redux, Tailwind CSS, and third-party APIs like Google Maps.
 
 **Current Projects:**
 - 💼 Hire Hub — Job Portal Platform
@@ -57,7 +57,7 @@ const roushni = {
     backend:     ['Node.js', 'Express.js', 'JWT', 'RESTful APIs'],
     database:    ['MongoDB', 'Mongoose'],
     tools:       ['Git', 'GitHub', 'Postman', 'VS Code'],
-    apis:        ['Google Maps API', 'Stripe', 'OAuth'],
+    apis:        ['Google Maps API', 'OAuth'],
     languages:   ['JavaScript', 'Python', 'HTML', 'CSS'],
   },
 
@@ -139,14 +139,14 @@ A comprehensive job portal connecting job seekers with employers. Users can crea
 
 ### 🚗 [RideX](https://github.com/roushni33/Uber-Clone-App)
 
-A feature-rich ride-sharing application enabling users to book rides, track drivers in real-time, and manage payments seamlessly. Drivers can register, accept rides, and navigate routes efficiently.
+A feature-rich ride-sharing application enabling users to book rides, track drivers in real-time, and manage ride history. Drivers can register, accept rides, and navigate routes efficiently.
 
-**Stack:** `React` `Node.js` `Express.js` `MongoDB` `Google Maps API` `Stripe`
+**Stack:** `React` `Node.js` `Express.js` `MongoDB` `Google Maps API`
 
 **Highlights:**
 - Real-time driver tracking
 - Google Maps integration
-- Payment gateway with Stripe
+- Advanced routing system
 - Ride history & ratings
 - Interactive map interface
 
