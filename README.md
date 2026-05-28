@@ -33,15 +33,29 @@
 <tr>
 <td width="50%" valign="top">
 
+### 💻 About
+
 Full Stack Developer passionate about building user-centric web applications with modern technologies. I specialize in developing end-to-end solutions using the MERN Stack (MongoDB, Express.js, React, Node.js).
 
-My focus areas are responsive web design, RESTful API development, state management, and database optimization. In real-world projects, I work with MongoDB, JWT authentication, Redux, Tailwind CSS, and third-party APIs like Google Maps.
+**Focus Areas:**
+- Responsive web design
+- RESTful API development
+- State management
+- Database optimization
 
 **Current Projects:**
 - 💼 Hire Hub — Job Portal Platform
 - 🚗 RideX — Ride-Sharing Application
-- 🌱 Building Full-Stack Web Applications
+- 🌱 Full-Stack Web Applications
 - 📚 Open Source Contributions
+
+**Key Experience:**
+- MongoDB & Mongoose ORM
+- JWT authentication
+- Redux state management
+- Tailwind CSS styling
+- Google Maps API integration
+- OAuth implementation
 
 </td>
 <td width="50%" valign="top">
@@ -50,27 +64,51 @@ My focus areas are responsive web design, RESTful API development, state managem
 const roushni = {
   role: 'Full Stack Developer',
   location: 'Patna, India',
-  education: 'Tech Enthusiast & Continuous Learner',
+  education: 'Tech Enthusiast & 
+              Continuous Learner',
 
   stack: {
-    frontend:    ['React', 'JavaScript', 'HTML5', 'CSS3', 'Tailwind CSS', 'Redux'],
-    backend:     ['Node.js', 'Express.js', 'JWT', 'RESTful APIs'],
-    database:    ['MongoDB', 'Mongoose'],
-    tools:       ['Git', 'GitHub', 'Postman', 'VS Code'],
-    apis:        ['Google Maps API', 'OAuth'],
-    languages:   ['JavaScript', 'Python', 'HTML', 'CSS'],
+    frontend: [
+      'React',
+      'JavaScript',
+      'HTML5',
+      'CSS3',
+      'Tailwind CSS',
+      'Redux'
+    ],
+    backend: [
+      'Node.js',
+      'Express.js',
+      'JWT',
+      'RESTful APIs'
+    ],
+    database: [
+      'MongoDB',
+      'Mongoose'
+    ],
+    tools: [
+      'Git',
+      'GitHub',
+      'Postman',
+      'VS Code'
+    ],
+    apis: [
+      'Google Maps',
+      'OAuth'
+    ]
   },
 
   interests: [
-    'Full-Stack Web Development',
+    'Full-Stack Development',
     'Responsive Design',
     'API Development',
-    'Open Source Contribution',
-    'Problem Solving',
+    'Open Source',
+    'Problem Solving'
   ],
 
-  currentlyBuilding: 'job-portal & ride-sharing-platform',
-  motto: 'Code. Create. Contribute.',
+  currentlyBuilding: 
+    'job-portal & ride-sharing',
+  motto: 'Code. Create. Contribute.'
 };
 ```
 
