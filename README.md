@@ -13,7 +13,7 @@
 ## ◈ whoami
 
 ```
-╭──────────────────────────── roushni@patna ───────────────────────────╮
+╭──────────────────────────── roushni@nitp ───────────────────────────╮
 │                                                                      │
 │   Name        │  Roushni Kumari                                      │
 │   Role        │  Full Stack Developer                                │
