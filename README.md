@@ -46,7 +46,7 @@ Full Stack Developer passionate about building user-centric web applications wit
 **Current Projects:**
 - 💼 Hire Hub — Job Portal Platform
 - 🚗 RideX — Ride-Sharing Application
-- 🌱 Full-Stack Web Applications
+- ✈️ Air Orbit — Airline Booking System
 - 📚 Open Source Contributions
 
 **Key Experience:**
@@ -159,6 +159,23 @@ const roushni = {
 <tr>
 <td width="50%" valign="top">
 
+### ✈️ [Air Orbit](https://github.com/roushni33/Air-Orbit)
+
+Advanced airline booking system built as a full-stack microservices architecture. Features flight search, real-time seat inventory management, and a complete booking lifecycle with payment processing.
+
+**Stack:** `React` `Node.js` `Express.js` `MySQL` `Redis` `RabbitMQ` `Docker`
+
+**Highlights:**
+- Microservices architecture with API Gateway
+- Real-time flight search & booking
+- ACID transactions with row-level locking
+- Redis caching & event-driven architecture
+- Idempotency protection on payments
+- Automatic seat restoration with RabbitMQ
+
+</td>
+<td width="50%" valign="top">
+
 ### 💼 [Hire Hub](https://github.com/roushni33/Hire-hub)
 
 A comprehensive job portal connecting job seekers with employers. Users can create profiles, search for jobs, and apply directly, while employers can post positions and manage applications.
@@ -173,9 +190,14 @@ A comprehensive job portal connecting job seekers with employers. Users can crea
 - Responsive UI/UX design
 
 </td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td width="50%" valign="top">
 
-### 🚗 [RideX](https://github.com/roushni33/Uber-Clone-App)
+### 🚗 [RideX](https://github.com/roushni33/RideX)
 
 A feature-rich ride-sharing application enabling users to book rides, track drivers in real-time, and manage ride history. Drivers can register, accept rides, and navigate routes efficiently.
 
@@ -187,6 +209,9 @@ A feature-rich ride-sharing application enabling users to book rides, track driv
 - Advanced routing system
 - Ride history & ratings
 - Interactive map interface
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
