@@ -44,9 +44,9 @@ Full Stack Developer passionate about building user-centric web applications wit
 - Database optimization
 
 **Current Projects:**
+- ✈️ Air Orbit — Airline Booking System
 - 💼 Hire Hub — Job Portal Platform
 - 🚗 RideX — Ride-Sharing Application
-- ✈️ Air Orbit — Airline Booking System
 - 📚 Open Source Contributions
 
 **Key Experience:**
